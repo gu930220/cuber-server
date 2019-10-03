@@ -1,0 +1,16 @@
+{
+  "name": "cuber-server",
+  "version": "1.0.0",
+  "description": "Server for the (C)Uber Clone . GraphQL, Typescript NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/gu930220/cuber-server.git",
+  "author": "ikmo <gu930220@hanmail.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.9",
+    "nodemon": "^1.19.3",
+    "ts-node": "^8.4.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.3"
+  }
+}
